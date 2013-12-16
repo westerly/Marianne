@@ -1,0 +1,3 @@
+accueil |Home
+appartements |Flats
+appartement1 |Flat 1
