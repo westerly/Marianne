@@ -9,7 +9,7 @@
 
 
 	<div id="boxRound">
-		<div class="span8">
+		<div class="mySpan8 left">
 			<div id="this-carousel-id" class="carousel slide"><!-- class of slide for animation -->
 			  <div class="carousel-inner">
 			    <div class="item active">
@@ -39,18 +39,18 @@
 		</div>
 	
 	
-		<div class='mySpan8 ml20 left txt'>
+		<div class='mySpan7 ml20 left txt'>
 		<?php 
 			echo $langs->trans("accueilTxtPart1");
 		?>
 		</div>
-		<div class='mySpan12 ml20 txt'>
+		<div class='mySpan12 ml20 txt left'>
 		<?php 
 			echo $langs->trans("accueilTxtPart2");
 		?>
 		</div>
 		
-		<iframe class="map" width="650" height="450" src="https://maps.google.fr/maps?f=q&amp;source=s_q&amp;hl=en&amp;geocode=&amp;q=Rua+Padre+Semedo+de+Azevedo,n%C2%B034+8200-167+Albufeira++Portugal&amp;aq=&amp;sll=43.601659,1.448884&amp;sspn=0.018398,0.039825&amp;ie=UTF8&amp;hq=&amp;hnear=Rua+Padre+Semedo+de+Azevedo,+Portugal&amp;ll=37.088351,-8.254444&amp;spn=0.005067,0.009956&amp;t=m&amp;z=14&amp;iwloc=A&amp;output=embed"></iframe>
+		<iframe class="map" width="80%" height="50%" src="https://maps.google.fr/maps?f=q&amp;source=s_q&amp;hl=en&amp;geocode=&amp;q=Rua+Padre+Semedo+de+Azevedo,n%C2%B034+8200-167+Albufeira++Portugal&amp;aq=&amp;sll=43.601659,1.448884&amp;sspn=0.018398,0.039825&amp;ie=UTF8&amp;hq=&amp;hnear=Rua+Padre+Semedo+de+Azevedo,+Portugal&amp;ll=37.088351,-8.254444&amp;spn=0.005067,0.009956&amp;t=m&amp;z=14&amp;iwloc=A&amp;output=embed"></iframe>
 		<br />	
 	</div>
 

@@ -56,7 +56,7 @@ body {
 }
 body.custom-background{ background:none;}
 #wrap {
-	width:1500px;
+	width:90%;
 	margin:0 auto;
 	border-left:5px solid #0099CC;
 	border-right:5px solid #0099CC;
@@ -568,9 +568,9 @@ caption, th, td {
 	padding: 20px;
  	background-color: rgb(0, 153, 204); /* bleu */
 	text-align:justify;
-	width:1350px;
+	width:90%;
 	margin-top:30px;
-	margin-left:50px;
+	margin-left:3%;
 	margin-bottom:30px;
 }
 
@@ -590,7 +590,7 @@ caption, th, td {
 .titleMenu {
 	border: solid thick rgb(255, 181, 50);
 	border-radius: 0.5em;
-	margin-left: 50px;
+	margin-left: 3%;
 	margin-top: 80px;
 	color: rgb(255, 181, 50);
 	/* width: 150px; */
@@ -598,7 +598,7 @@ caption, th, td {
 	height: 60px;
 	text-align: center;
 	background-color: rgb(0, 153, 204);
-	padding-left:15px;
+	padding-left:2%;
 	padding-right:15px;
 	padding-top:5px;
 	padding-bottom:5px;
@@ -606,8 +606,8 @@ caption, th, td {
 }
 
 .map{
-	margin-top:30px;
-	margin-left:350px;
+	margin:0 auto;
+	display: block;
 }
 
 .txt{
@@ -619,8 +619,16 @@ caption, th, td {
 	float:left;
 }
 
+.mySpan6{
+	width:40%;
+}
+
+.mySpan7{
+	width:45%;
+}
+
 .mySpan8{
-	width:660px;
+	width:50%;
 }
 
 .mySpan10{
@@ -628,7 +636,7 @@ caption, th, td {
 }
 
 .mySpan12{
-	width:1300px;
+	width:95%;
 }
 
 .mBottom20{

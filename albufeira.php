@@ -9,7 +9,7 @@
 
 
 	<div id="boxRound">
-		<div class="span8">
+		<div class="mySpan8 left">
 			<div id="this-carousel-id" class="carousel slide"><!-- class of slide for animation -->
 			  <div class="carousel-inner">
 			    <div class="item active">
@@ -39,7 +39,7 @@
 		</div>
 	
 	
-		<div class='mySpan8 ml20 left txt mBottom20'>
+		<div class='mySpan7 ml20 left txt mBottom20'>
 		<?php 
 			echo $langs->trans("albufeiraTxtPart1");
 		?>
