@@ -15,6 +15,7 @@
 	<link rel="stylesheet" type="text/css" media="all" href="css/bootstrap.css">
 	<link rel="stylesheet" type="text/css" media="all" href="plugins/galleryView/css/jquery.galleryview-3.0-dev.css">
 	<link rel="stylesheet" href="plugins/calendar/build/kalendae.css" type="text/css">
+	<link rel="stylesheet" type="text/css" media="all" href="css/jquery-ui.css">
 	
 	
 	
@@ -33,6 +34,10 @@
 	<script src="plugins/galleryView/js/jquery.timers-1.2.js"></script>
 	<script src="plugins/galleryView/js/jquery.easing.1.3.js"></script>
 	<script src="plugins/calendar/build/kalendae.standalone.js" type="text/javascript" charset="utf-8"></script>
+	
+	<!--<script src="js/jquery.min.js"></script>-->
+	<script src="js/jquery-ui.js"></script>
+	<script src="js/jquery-ui.multidatespicker.js"></script>
 	
 </head>
 
@@ -68,9 +73,9 @@
   		<li class="<?php getClassMenuHeader("albufeira");?>"><a class="father" href="<?php $url_root?>albufeira.php">Albufeira</a></li>
   		<li class="<?php getClassMenuHeader("appart");?>"><a class="father" href="<?php $url_root?>appartKaty.php"><?php echo $langs->trans("appartements");?></a>
 	  		<ul class="children">
-	  			<li class="<?php getClassMenuHeader("Katy");?>"><a href="<?php $url_root?>appartKaty.php"><?php echo $langs->trans("appartKaty");?></a></li>
-	  			<li class="<?php getClassMenuHeader("Mel");?>"><a href="<?php $url_root?>appartMel.php"><?php echo $langs->trans("appartMel");?></a></li>
-	  			<li class="<?php getClassMenuHeader("Jojo");?>"><a href="<?php $url_root?>appartJojo.php"><?php echo $langs->trans("appartJojo");?></a></li>
+	  			<li class="<?php getClassMenuHeader("Katy");?>"><a href="<?php $url_root?>OT1.php"><?php echo $langs->trans("appartOT1");?></a></li>
+	  			<li class="<?php getClassMenuHeader("Mel");?>"><a href="<?php $url_root?>OT2.php"><?php echo $langs->trans("appartOT2");?></a></li>
+	  			<li class="<?php getClassMenuHeader("Jojo");?>"><a href="<?php $url_root?>OT3.php"><?php echo $langs->trans("appartOT3");?></a></li>
 	  		</ul>
   		</li>
   		<li class="<?php getClassMenuHeader("modalites");?>"><a class="father" href="<?php $url_root?>modalites.php"><?php echo $langs->trans("modalities");?></a>

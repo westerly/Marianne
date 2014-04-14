@@ -1,0 +1,97 @@
+﻿
+accueil |Inicio
+appartements |Apartamentos
+appartOT3 | Apartamento OT-3
+appartOT2 | Apartamento OT-2
+appartOT1 | Apartamento OT-1
+
+accueilTxtPart1 |<p class="alinea">JRM-Apart’Albufeira é um estabelecimento recentemente renovado no centro histórico de Albufeira.</p> <p class="alinea"> Este estabelecimento moderno, localizado numa rua calma no centro de Albufeira, dispõe de 3 apartamentos independentes que podem acomodar entre 2 a 10 pessoas.</p>
+accueilTxtPart2 |<p class="alinea">A simplicidade e conforto destes belos apartamentos contribuirão definitivamente para umas excelentes férias e uma estadia que com certeza vai querer voltar a repetir.</p> <p class="alinea">A proximidade de todos os serviços (supermercados, padarias, restaurantes, cafés, bares, bancos, farmácia) permitirá com que deixe de lado o seu carro, e disfrute das suas férias sem preocupações e burocracias de deslocação.</p><p class="alinea"> A praia do “Túnel” (Peneco) e dos” Pescadores “são duas praias que se localizam no centro de Albufeira. Estas praias atraem um grande número de turistas e estão apenas a 2 minutos a pé do seu alojamento para férias JRM-Apart’Albufeira.</p>
+
+albufeiraTxtPart1 | <p class="alinea"> Albufeira é uma cidade da região do Algarve, com uma das mais belas praias da Europa, sendo que as rochas e falésias do sul de Portugal formam paisagens encantadoras junto ao mar.</p> <p class="alinea"> Caracterizado pelo belo clima Mediterrâneo, onde sol brilha durante todo o ano fornecendo uma temperatura amena, Albufeira vem também completar as suas férias inesquecíveis com a incrível vida nocturna.</p>
+
+albufeiraTxtPart2 | <p class="alinea"> A praia dos « Pescadores » é muitas vezes o local de concertos gratuitos, de magníficos fogos de artificio e festas.</p> <p class="alinea">Os desportos aquáticos como natação, mergulho, surf, paraquedismo, windsurf e pesca são os mais populares ao longo da costa do Algarve, bem como cruzeiros e passeios de barco para explorar cavernas e grutas. Os parques aquáticos são muito populares, assim como aventuras ao ar livre, como karting, safaris 4x4 e passeios a cavalo.</p> <p class="alinea"> Albufeira está localizado a 45 km do Aeroporto Internacional de Faro, que fica a cerca de 35 minutos de carro. Vários transportes como autocarro, táxi ou ainda o serviço de transporte permite a ligação entre esses dois destinos.</p> 
+
+descAppartOT3P1 | Com uma magnífica vista sobre a cidade antiga do seu terraço, este apartamento recentemente renovado, dispõe de um quarto, situado perto do Túnel, e tem um charme especial. 
+
+descAppartOT3P2 | Localizado no segundo andar de uma residência, tem um agradável terraço com mesa, cadeiras e duas espreguiçadeiras, ideal para refeições ao ar livre, banhos de sol e aperitivos. 
+
+descAppartOT3P3 | Localizado a apenas 2 minutos a pé da praia e rodeado por muitas maravilhas que o centro antigo tem para oferecer, este apartamento irá encantar todos os turistas que queiram ficar no centro antigo de Albufeira.
+
+descAppartOT2P1 | A poucos metros da praia dos "Pescadores" e localizado no centro antigo de Albufeira, perto do túnel, este apartamento de 2 quartos, localizado no primeiro andar de uma residência está num local muito procurado.
+
+descAppartOT2P2 | Completamente renovado com uma cozinha moderna, casa de banho e varanda de Julieta no quarto principal e sala de estar, o apartamento é ideal para aqueles que procuram um apartamento de qualidade no centro histórico, onde se pode desfrutar ao máximo.
+
+descAppartOT1P1 | Localizado no centro antigo de Albufeira, este apartamento no rés do chão com 2 quartos está localizado apenas a 2 minutos da praia dos "Pescadores". 
+
+descAppartOT1P2 | O apartamento foi completamente renovado com uma cozinha moderna e casa de banho, e está localizado numa rua calma no centro da cidade.
+
+descAppartOT1P3 | Em poucos minutos, vai poder desfrutar de uma cidade maravilhosa que faz da antiga cidade de Albufeira um dos destinos turísticos preferidos do Algarve.
+
+detailsRoomOT3 | <h1>Quarto</h1><ul><li>Cama de casal</li><li>Roupa de cama</li><li>Possibilidade de reservar cama bebé</li></ul>
+
+detailsBathroomOT3 | <h1>Casa de banho</h1><ul><li>Duche</li><li>Secador de cabelo</li><li>Toalhas de banho</li></ul>
+
+detailsLivingRoomOT3 | <h1>Salão</h1><ul><li>2 poltronas individuais</li><li>Tv</li></ul>
+
+detailsKitchenOT3 |  <h1>Cozinha</h1><ul><li>Frigorifico- congelador</li><li>Maquina de lavar roupa </li><li>Micro-ondas grill</li><li>Indução</li><li>Torradeira</li><li>Jarro elétrico </li><li>Ferro de engomar</li><li>Possibilidade de reservar cadeira de mesa bebé</li></ul>
+
+detailsExtrasOT3 | <h1>Extras</h1><ul><li>Cofre</li><li>Terraço : mesa exterior + cadeiras e espreguiçadeiras</li></ul>
+
+detailsMiscellaneousOT3 | <h1>Diversos</h1><ul><li>Aeroporto: 46km</li><li>Praia : 200 metros</li><li>Supermarcado : 50 metros</li><li>Restaurantes : 50 metros</li></ul>
+
+detailsRoomOT2 | <h1>Quartos: 2</h1><ul><li>Cama de casal: 1</li><li>Camas de solteiro: 2</li><li>Roupa de cama</li><li>Possibilidade de reservar cama bebé </li></ul>
+
+detailsBathroomOT2 | <h1>Casa de banho</h1><ul><li>Duche</li><li>Secuador de cabelo</li><li>Toalhas de banho</li></ul>
+
+detailsLivingRoomOT2 | <h1>Salão</h1><ul><li>Sofá</li><li>TV</li><li>Tv</li></ul>
+
+detailsKitchenOT2 |  <h1>Cozinha</h1><ul><li>Frigorifico-congelador</li><li>Maquina de lavar roupa</li><li>Micro-ondas grill</li><li>Indução</li><li>Torradeira</li><li>Jarro elétrico</li><li>Ferro de engomar</li><li>Possibilidade de reservar cadeira de mesa bebé</li></ul>
+
+detailsExtrasOT2 | <h1>Extras</h1><ul><li>Cofre</li></ul>
+
+detailsMiscellaneousOT2 | <h1>Diversos</h1><ul><li>Aeroporto  : 46km</li><li>Praia : 200 metros</li><li>Supermarcado : 50 metros</li><li>Restaurantes : 50 metros</li></ul>
+
+detailsRoomOT1 | <h1>Quartos: 2</h1><ul><li>Cama de casal: 1</li><li>Camas de solteiro: 2</li><li>Roupa de cama</li></ul>
+
+detailsBathroomOT1 | <h1>Casa de banho</h1><ul><li>Duche</li><li>Secador de cabelo</li><li>Toalhas de banho</li></ul>
+
+detailsLivingRoomOT1 | <h1>Salão</h1><ul><li>Sofá</li><li>TV</li><li>Tv</li></ul>
+
+detailsKitchenOT1 |  <h1>Cozinha</h1><ul><li>Frigorifico-congelador</li><li>Maquina de lavar roupa</li><li>Micro-ondas grill</li><li>Indução</li><li>Torradeira</li><li>Jarro elétrico</li><li>Ferro de engomar</li></ul>
+
+detailsExtrasOT1 | <h1>Extras</h1><ul><li>Cofre</li></ul>
+
+detailsMiscellaneousOT1 | <h1>Diversos</h1><ul><li>Aeroporto  : 46km</li><li>Praia : 200 metros</li><li>Supermarcado : 50 metros</li><li>Restaurantes : 50 metros</li></ul>
+
+month | Mês 
+
+weeklyPrices | Tarif à la semaine
+
+january | Janeiro
+
+february | Fevereiro
+
+march | Março
+
+april | Abril
+
+may | Maio
+
+june | Junho
+
+july | Julho
+
+august | Agosto
+
+september | Setembro
+
+october | Outubro
+
+november | Novembro
+
+december | Dezembro
+
+modalities | Condições
+
+modalitiesText | <ul><li></li><li></li><li></li><li></li><li></li><li></li><li></li><li></li></ul>

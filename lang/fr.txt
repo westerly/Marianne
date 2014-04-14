@@ -1,9 +1,9 @@
 ﻿
 accueil |Accueil
 appartements |Appartements
-appartKaty | Appartement Katy
-appartMel | Appartement Mel
-appartJojo | Appartement Jojo
+appartOT3 | Appartement OT-3
+appartOT2 | Appartement OT-2
+appartOT1 | Appartement OT-1
 
 accueilTxtPart1 |<p class="alinea">JRM-Apart’Albufeira est un établissement récemment rénové dans le centre historique d’Albufeira.</p> <p class="alinea"> Cet établissement moderne, se situant dans une rue calme du centre-ville d’Albufeira met à votre disposition 3 appartements indépendants  pouvant accueillir de 2 à 10 personnes. </p>
 accueilTxtPart2 |<p class="alinea"> La location de ces splendides appartements ravivera vos vacances grâce à leur simplicité et leur confort. </p> <p class="alinea"> La proximité à toutes commodités (supermarchés, boulangeries, restaurants, cafés, bars, banques, pharmacie) vous permettra de passer d’agréables vacances sous le beau soleil d’Albufeira, tout en laissant de côté votre véhicule.</p><p class="alinea"> La plage du « Tunel » (Peneco) et « Pescadores » sont les deux plages du centre d’Albufeira.  Ces plages au sable fin attirent un très grand nombre de vacanciers et se situent à peine à 2 minutes à pied de votre location vacances JRM-Apart’Albufeira. </p>
@@ -12,57 +12,57 @@ albufeiraTxtPart1 | <p class="alinea"> Albufeira est située au cœur de la rég
 
 albufeiraTxtPart2 | <p class="alinea"> De plus, l’animation de la vie nocturne complètera vos vacances inoubliables à Albufeira. La plage des « Pescadores » est très souvent le lieu de concerts gratuits, de magnifiques feux d’artifice et de festivités. </p> <p class="alinea"> Les sports nautiques comme la natation, la plongée, le surf, parachute ascensionnel, planche à voile et la pêche sont très populaires le long de la côte de l'Algarve, tout comme les croisières et les excursions en bateau permettant d’explorer les cavernes et les grottes. Les parcs aquatiques sont très populaires, ainsi que des aventures en plein air tels que le karting, les safaris en 4x4 et à cheval. </p> <p class="alinea"> Albufeira est situé à 45 km de l’aéroport international de Faro soit environ 35 minutes en voiture. Différents transports comme le bus, le taxi ou encore la navette de transfert permettent de faire le lien entre ces deux destinations. </p>
 
-descAppartKatyP1 | Avec une vue magnifique sur la vieille ville depuis sa terrasse sur le toit, cet appartement récemment rénové composé d'une chambre à coucher, situé à proximité du tunnel, est titulaire d'un charme particulier. 
+descAppartOT3P1 | Avec une vue magnifique sur la vieille ville depuis sa terrasse sur le toit, cet appartement récemment rénové composé d'une chambre à coucher, situé à proximité du tunnel, est titulaire d'un charme particulier. 
 
-descAppartKatyP2 | Situé au deuxième étage d’une résidence, il possède une belle terrasse avec table,  chaises de jardin et 2 chaises longues, idéal pour manger en plein air, bain de soleil et apéritifs. 
+descAppartOT3P2 | Situé au deuxième étage d’une résidence, il possède une belle terrasse avec table,  chaises de jardin et 2 chaises longues, idéal pour manger en plein air, bain de soleil et apéritifs. 
 
-descAppartKatyP3 | Situé à seulement 2 minutes à pied de la plage et entouré par les nombreuses merveilles que la vieille ville a à offrir, cet appartement ravira tous les vacanciers qui veulent rester au sein de la vieille ville d’Albufeira.
+descAppartOT3P3 | Situé à seulement 2 minutes à pied de la plage et entouré par les nombreuses merveilles que la vieille ville a à offrir, cet appartement ravira tous les vacanciers qui veulent rester au sein de la vieille ville d’Albufeira.
 
-descAppartMelP1 | À quelques mètres de la plage des « Pescadores » et situé dans le centre de la vieille ville d’Albufeira, près du tunnel, cet appartement de 2 chambres situé au premier étage d’une résidence est dans un endroit très recherché. 
+descAppartOT2P1 | À quelques mètres de la plage des « Pescadores » et situé dans le centre de la vieille ville d’Albufeira, près du tunnel, cet appartement de 2 chambres situé au premier étage d’une résidence est dans un endroit très recherché. 
 
-descAppartMelP2 | Entièrement rénové, avec une cuisine moderne, salle de bain et balcon Juliette dans la chambre principale et le salon, l'appartement est idéal pour ceux qui cherchent un hébergement de qualité au sein de la vieille ville, où ils peuvent profiter de l'ambiance à son maximum.
+descAppartOT2P2 | Entièrement rénové, avec une cuisine moderne, salle de bain et balcon Juliette dans la chambre principale et le salon, l'appartement est idéal pour ceux qui cherchent un hébergement de qualité au sein de la vieille ville, où ils peuvent profiter de l'ambiance à son maximum.
 
-descAppartJojoP1 | Situé dans le centre de la vieille ville d’Albufeira, cet appartement rez de chaussée de 2 chambres est situé à seulement 2 minutes de la plage des « Pescadores ».
+descAppartOT1P1 | Situé dans le centre de la vieille ville d’Albufeira, cet appartement rez de chaussée de 2 chambres est situé à seulement 2 minutes de la plage des « Pescadores ».
 
-descAppartJojoP2 | L'appartement a été entièrement rénové avec une cuisine moderne et salle de bain et est situé dans une rue calme du centre ville.
+descAppartOT1P2 | L'appartement a été entièrement rénové avec une cuisine moderne et salle de bain et est situé dans une rue calme du centre ville.
 
-descAppartJojoP3 |  À quelques minutes, les vacanciers peuvent profiter de la merveilleuse ambiance et de nombreuses offres qui font de la vieille ville d'Albufeira une des destinations touristiques préférées de l'Algarve.
+descAppartOT1P3 |  À quelques minutes, les vacanciers peuvent profiter de la merveilleuse ambiance et de nombreuses offres qui font de la vieille ville d'Albufeira une des destinations touristiques préférées de l'Algarve.
 
-detailsRoomKaty | <h1>Chambre</h1><ul><li>Lit double</li><li>Draps fournis </li><li>Possibilité de réserver lit bébé (Supplément 20€/semaine)</li></ul>
+detailsRoomOT3 | <h1>Chambre</h1><ul><li>Lit double</li><li>Draps fournis </li><li>Possibilité de réserver lit bébé (Supplément 20€/semaine)</li></ul>
 
-detailsBathroomKaty | <h1>Salle de bain</h1><ul><li>Douche</li><li>Sèche-cheveux</li><li>Serviettes de bain fournies</li></ul>
+detailsBathroomOT3 | <h1>Salle de bain</h1><ul><li>Douche</li><li>Sèche-cheveux</li><li>Serviettes de bain fournies</li></ul>
 
-detailsLivingRoomKaty | <h1>Salon</h1><ul><li>2 fauteuils individuels</li><li>Tv</li></ul>
+detailsLivingRoomOT3 | <h1>Salon</h1><ul><li>2 fauteuils individuels</li><li>Tv</li></ul>
 
-detailsKitchenKaty |  <h1>Cuisine</h1><ul><li>Frigo- congélateur</li><li>Lave-linge</li><li>Micro-ondes grill</li><li>Plaque à induction</li><li>Grille-pain</li><li>Bouilloire</li><li>Fer à repasser</li><li>Chaise de table bébé (Supplément 5€/semaine)</li></ul>
+detailsKitchenOT3 |  <h1>Cuisine</h1><ul><li>Frigo- congélateur</li><li>Lave-linge</li><li>Micro-ondes grill</li><li>Plaque à induction</li><li>Grille-pain</li><li>Bouilloire</li><li>Fer à repasser</li><li>Chaise de table bébé (Supplément 5€/semaine)</li></ul>
 
-detailsExtrasKaty | <h1>Extras</h1><ul><li>Coffre-fort</li><li>Terrasse : avec Table extérieure + chaises et chaises longues</li></ul>
+detailsExtrasOT3 | <h1>Extras</h1><ul><li>Coffre-fort</li><li>Terrasse : avec Table extérieure + chaises et chaises longues</li></ul>
 
-detailsMiscellaneousKaty | <h1>Divers</h1><ul><li>Aéroport : 46km</li><li>Plage : 200mètres</li><li>Supermarché : 50 mètres</li><li>Restaurants : 50mètres</li></ul>
+detailsMiscellaneousOT3 | <h1>Divers</h1><ul><li>Aéroport : 46km</li><li>Plage : 200mètres</li><li>Supermarché : 50 mètres</li><li>Restaurants : 50mètres</li></ul>
 
-detailsRoomMel | <h1>Chambre: 2</h1><ul><li>Lit double: 1</li><li>Lits simples: 2</li><li>Draps fournis </li><li>Possibilité de réserver lit bébé (Supplément 20€/semaine)</li></ul>
+detailsRoomOT2 | <h1>Chambre: 2</h1><ul><li>Lit double: 1</li><li>Lits simples: 2</li><li>Draps fournis </li><li>Possibilité de réserver lit bébé (Supplément 20€/semaine)</li></ul>
 
-detailsBathroomMel | <h1>Salle de bain</h1><ul><li>Douche</li><li>Sèche-cheveux</li><li>Serviettes de bain fournies</li></ul>
+detailsBathroomOT2 | <h1>Salle de bain</h1><ul><li>Douche</li><li>Sèche-cheveux</li><li>Serviettes de bain fournies</li></ul>
 
-detailsLivingRoomMel | <h1>Salon</h1><ul><li>Canapé</li><li>TV</li><li>Tv</li></ul>
+detailsLivingRoomOT2 | <h1>Salon</h1><ul><li>Canapé</li><li>TV</li><li>Tv</li></ul>
 
-detailsKitchenMel |  <h1>Cuisine</h1><ul><li>Frigo- congélateur</li><li>Lave-linge</li><li>Micro-ondes grill</li><li>Plaque à induction</li><li>Grille-pain</li><li>Bouilloire</li><li>Fer à repasser</li><li>Chaise de table bébé (Supplément 5€/semaine)</li></ul>
+detailsKitchenOT2 |  <h1>Cuisine</h1><ul><li>Frigo- congélateur</li><li>Lave-linge</li><li>Micro-ondes grill</li><li>Plaque à induction</li><li>Grille-pain</li><li>Bouilloire</li><li>Fer à repasser</li><li>Chaise de table bébé (Supplément 5€/semaine)</li></ul>
 
-detailsExtrasMel | <h1>Extras</h1><ul><li>Coffre-fort</li></ul>
+detailsExtrasOT2 | <h1>Extras</h1><ul><li>Coffre-fort</li></ul>
 
-detailsMiscellaneousMel | <h1>Divers</h1><ul><li>Aéroport : 46km</li><li>Plage : 200mètres</li><li>Supermarché : 50 mètres</li><li>Restaurants : 50 mètres</li></ul>
+detailsMiscellaneousOT2 | <h1>Divers</h1><ul><li>Aéroport : 46km</li><li>Plage : 200mètres</li><li>Supermarché : 50 mètres</li><li>Restaurants : 50 mètres</li></ul>
 
-detailsRoomJojo | <h1>Chambre: 2</h1><ul><li>Lit double: 1</li><li>Lits simples: 2</li><li>Draps fournis </li><li>Possibilité de réserver lit bébé (Supplément 20€/semaine)</li></ul>
+detailsRoomOT1 | <h1>Chambre: 2</h1><ul><li>Lit double: 1</li><li>Lits simples: 2</li><li>Draps fournis </li><li>Possibilité de réserver lit bébé (Supplément 20€/semaine)</li></ul>
 
-detailsBathroomJojo | <h1>Salle de bain</h1><ul><li>Douche</li><li>Sèche-cheveux</li><li>Serviettes de bain fournies</li></ul>
+detailsBathroomOT1 | <h1>Salle de bain</h1><ul><li>Douche</li><li>Sèche-cheveux</li><li>Serviettes de bain fournies</li></ul>
 
-detailsLivingRoomJojo | <h1>Salon</h1><ul><li>Canapé</li><li>TV</li><li>Tv</li></ul>
+detailsLivingRoomOT1 | <h1>Salon</h1><ul><li>Canapé</li><li>TV</li><li>Tv</li></ul>
 
-detailsKitchenJojo |  <h1>Cuisine</h1><ul><li>Frigo- congélateur</li><li>Lave-linge</li><li>Micro-ondes grill</li><li>Plaque à induction</li><li>Grille-pain</li><li>Bouilloire</li><li>Fer à repasser</li></ul>
+detailsKitchenOT1 |  <h1>Cuisine</h1><ul><li>Frigo- congélateur</li><li>Lave-linge</li><li>Micro-ondes grill</li><li>Plaque à induction</li><li>Grille-pain</li><li>Bouilloire</li><li>Fer à repasser</li></ul>
 
-detailsExtrasJojo | <h1>Extras</h1><ul><li>Coffre-fort</li></ul>
+detailsExtrasOT1 | <h1>Extras</h1><ul><li>Coffre-fort</li></ul>
 
-detailsMiscellaneousJojo | <h1>Divers</h1><ul><li>Aéroport : 46km</li><li>Plage : 200mètres</li><li>Supermarché : 50 mètres</li><li>Restaurants : 50 mètres</li></ul>
+detailsMiscellaneousOT1 | <h1>Divers</h1><ul><li>Aéroport : 46km</li><li>Plage : 200mètres</li><li>Supermarché : 50 mètres</li><li>Restaurants : 50 mètres</li></ul>
 
 month | Mois
 

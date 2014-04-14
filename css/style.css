@@ -56,7 +56,7 @@ body {
 }
 body.custom-background{ background:none;}
 #wrap {
-	width:90%;
+	width:980px;
 	margin:0 auto;
 	border-left:5px solid #0099CC;
 	border-right:5px solid #0099CC;
@@ -568,21 +568,21 @@ caption, th, td {
 	padding: 20px;
  	background-color: rgb(0, 153, 204); /* bleu */
 	text-align:justify;
-	width:90%;
+	width:870px;
 	margin-top:30px;
-	margin-left:3%;
+	margin-left:30px;
 	margin-bottom:30px;
 }
 
-.sizeBoxKaty{
-	height:1500px;
+.sizeBoxOT3{
+	height:1490px;
 }
 
-.sizeBoxMel{
+.sizeBoxOT2{
 	height:1520px;
 }
 
-.sizeBoxJojo{
+.sizeBoxOT1{
 	height:1450px;
 }
 
@@ -590,15 +590,15 @@ caption, th, td {
 .titleMenu {
 	border: solid thick rgb(255, 181, 50);
 	border-radius: 0.5em;
-	margin-left: 3%;
+	margin-left: 30px;
 	margin-top: 80px;
 	color: rgb(255, 181, 50);
 	/* width: 150px; */
-	margin-bottom: -4%;
+	margin-bottom: -60px;
 	height: 60px;
 	text-align: center;
 	background-color: rgb(0, 153, 204);
-	padding-left:2%;
+	padding-left:15px;
 	padding-right:15px;
 	padding-top:5px;
 	padding-bottom:5px;
@@ -629,6 +629,10 @@ caption, th, td {
 
 .mySpan8{
 	width:50%;
+}
+
+.mySpan9{
+	width:60%;
 }
 
 .mySpan10{
@@ -710,7 +714,7 @@ div.details {
 	display: block;
 	margin: 0.25em;
 	border: none;
-	width: 13.75em;
+	width: 10.75em;
 	min-height: 9em;
 	background: #f2f2f2;
 	-moz-box-shadow: 0 0 0.25em #c0c0c0;
@@ -751,12 +755,16 @@ div.sizeKitchen{
 	height:380px;
 }
 
-div.sizeKitchenJojo{
+div.sizeKitchenOT1{
 	height:310px;
 }
 
 div.sizeRoom{
-	height:244px;
+	height:219px;
+}
+
+div.sizeRoomOT2OT1{
+	height:258px;
 }
 
 table {
@@ -784,7 +792,6 @@ td {
 }
 
 div#tarif{
-	margin-left: 20px;
 	float:left;
 	margin-top:50px;
 }
@@ -851,7 +858,7 @@ div.infotxt{
 
 .calendar{
 	text-align: center;
-	font-size: 30px;
+	font-size: 15px;
 }
 
 div.calendar h1{
@@ -859,16 +866,13 @@ div.calendar h1{
 }
 
 div.divDispo{
-	margin-left: auto;
-	margin-right: auto;
+	margin-left: 10px;
 	margin-top: 30px;
-	width: 100%;	
 }
 
 div.divDispo h1{
 	color:white;
 	background-color:#FEA82B;
-	width: 1220px;
 	border: solid thick rgb(255, 181, 50);
 	border-radius: 0.5em;
 	margin-left: auto;
