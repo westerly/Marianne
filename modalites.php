@@ -6,7 +6,9 @@
 
 
 	<div id="boxRound">
-		<?php $langs->trans("modalitiesText"); ?>
+		<div id="modalities" class="txt">
+			<?php echo $langs->trans("modalitiesText"); ?>
+		</div>
 	</div>
 			
 

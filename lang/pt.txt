@@ -4,9 +4,10 @@ appartements |Apartamentos
 appartOT3 | Apartamento OT-3
 appartOT2 | Apartamento OT-2
 appartOT1 | Apartamento OT-1
+contacts | Contacts
 
-accueilTxtPart1 |<p class="alinea">JRM-Apart’Albufeira é um estabelecimento recentemente renovado no centro histórico de Albufeira.</p> <p class="alinea"> Este estabelecimento moderno, localizado numa rua calma no centro de Albufeira, dispõe de 3 apartamentos independentes que podem acomodar entre 2 a 10 pessoas.</p>
-accueilTxtPart2 |<p class="alinea">A simplicidade e conforto destes belos apartamentos contribuirão definitivamente para umas excelentes férias e uma estadia que com certeza vai querer voltar a repetir.</p> <p class="alinea">A proximidade de todos os serviços (supermercados, padarias, restaurantes, cafés, bares, bancos, farmácia) permitirá com que deixe de lado o seu carro, e disfrute das suas férias sem preocupações e burocracias de deslocação.</p><p class="alinea"> A praia do “Túnel” (Peneco) e dos” Pescadores “são duas praias que se localizam no centro de Albufeira. Estas praias atraem um grande número de turistas e estão apenas a 2 minutos a pé do seu alojamento para férias JRM-Apart’Albufeira.</p>
+accueilTxtPart1 |<p class="alinea">JRM-Apart’Albufeira é um estabelecimento recentemente renovado no centro histórico de Albufeira.</p> <p class="alinea"> Este estabelecimento moderno, localizado numa rua calma no centro de Albufeira, dispõe de 3 apartamentos independentes que podem acomodar entre 2 a 10 pessoas.</p> <p class="alinea">A simplicidade e conforto destes belos apartamentos contribuirão definitivamente para umas excelentes férias e uma estadia que com certeza vai querer voltar a repetir.</p> <p class="alinea">A proximidade de todos os serviços (supermercados, padarias, restaurantes, cafés, bares, bancos, farmácia) permitirá com que deixe de lado o seu carro, e disfrute das suas férias sem preocupações e burocracias de deslocação.</p>
+accueilTxtPart2 |<p class="alinea"> A praia do “Túnel” (Peneco) e dos” Pescadores “são duas praias que se localizam no centro de Albufeira. Estas praias atraem um grande número de turistas e estão apenas a 2 minutos a pé do seu alojamento para férias JRM-Apart’Albufeira.</p>
 
 albufeiraTxtPart1 | <p class="alinea"> Albufeira é uma cidade da região do Algarve, com uma das mais belas praias da Europa, sendo que as rochas e falésias do sul de Portugal formam paisagens encantadoras junto ao mar.</p> <p class="alinea"> Caracterizado pelo belo clima Mediterrâneo, onde sol brilha durante todo o ano fornecendo uma temperatura amena, Albufeira vem também completar as suas férias inesquecíveis com a incrível vida nocturna.</p>
 
@@ -64,9 +65,11 @@ detailsExtrasOT1 | <h1>Extras</h1><ul><li>Cofre</li></ul>
 
 detailsMiscellaneousOT1 | <h1>Diversos</h1><ul><li>Aeroporto  : 46km</li><li>Praia : 200 metros</li><li>Supermarcado : 50 metros</li><li>Restaurantes : 50 metros</li></ul>
 
+disponibilites | Disponibilidades
+
 month | Mês 
 
-weeklyPrices | Tarif à la semaine
+weeklyPrices | Preços por semana
 
 january | Janeiro
 
@@ -94,4 +97,7 @@ december | Dezembro
 
 modalities | Condições
 
-modalitiesText | <ul><li></li><li></li><li></li><li></li><li></li><li></li><li></li><li></li></ul>
+tarifsDesc | <p class="alinea"> Os preços são para uma semana (7 noites). </p> <p class="alinea"> 30% pagos à pré-reserva e o restante 2 semanas antes da estadia tal como um depósito de garantia de 150€. </p>
+
+
+modalitiesText | <ul class="listFirstLevelModalities"><li>É estritamente proibido fumar no interior dos apartamentos.</li><li>Não é permitido animais de estimação.</li><li>Horários:<ul><li>Entrada : a partir das 15h até às 20h</li><li>Saída : até às 10h</li></ul></li><li>Pagamento: </li><ul><li>Transferência bancaria</li></ul><li>Reservas: </li><ul><li>Pré-reserva : pagamento no momento da reserva  de 30% do valor do aluguer (não reembolsável se cancelamento)</li><li>Reserva : pagamento 2 semanas antes do início da estadia: restante 70% do valor da estadia (não reembolsável se cancelamento)</li></ul><li>Depósito: <ul><li>Um depósito de garantia de 150€  deve ser pago 2 semanas antes do início da estadia. O depósito será devolvido por transferência bancaria poucos dias após o final da estadia se nenhum dano foi encontrado no estado de saída.</li></ul></li><li>Cama bebé : limite de 3 anos de idade.</li></ul>

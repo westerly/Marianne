@@ -4,13 +4,14 @@ appartements |Appartements
 appartOT3 | Appartement OT-3
 appartOT2 | Appartement OT-2
 appartOT1 | Appartement OT-1
+contacts | Contacts
 
-accueilTxtPart1 |<p class="alinea">JRM-Apart’Albufeira est un établissement récemment rénové dans le centre historique d’Albufeira.</p> <p class="alinea"> Cet établissement moderne, se situant dans une rue calme du centre-ville d’Albufeira met à votre disposition 3 appartements indépendants  pouvant accueillir de 2 à 10 personnes. </p>
-accueilTxtPart2 |<p class="alinea"> La location de ces splendides appartements ravivera vos vacances grâce à leur simplicité et leur confort. </p> <p class="alinea"> La proximité à toutes commodités (supermarchés, boulangeries, restaurants, cafés, bars, banques, pharmacie) vous permettra de passer d’agréables vacances sous le beau soleil d’Albufeira, tout en laissant de côté votre véhicule.</p><p class="alinea"> La plage du « Tunel » (Peneco) et « Pescadores » sont les deux plages du centre d’Albufeira.  Ces plages au sable fin attirent un très grand nombre de vacanciers et se situent à peine à 2 minutes à pied de votre location vacances JRM-Apart’Albufeira. </p>
+accueilTxtPart1 |<p class="alinea">JRM-Apart’Albufeira est un établissement récemment rénové dans le centre historique d’Albufeira.</p> <p class="alinea"> Cet établissement moderne, se situant dans une rue calme du centre-ville d’Albufeira met à votre disposition 3 appartements indépendants  pouvant accueillir de 2 à 10 personnes. </p> <p class="alinea"> La location de ces splendides appartements ravivera vos vacances grâce à leur simplicité et leur confort. </p>  <p class="alinea"> La proximité à toutes commodités (supermarchés, boulangeries, restaurants, cafés, bars, banques, pharmacie) vous permettra de passer d’agréables vacances sous le beau soleil d’Albufeira, tout en laissant de côté votre véhicule.</p>
+accueilTxtPart2 |<p class="alinea"> La plage du « Tunel » (Peneco) et « Pescadores » sont les deux plages du centre d’Albufeira.  Ces plages au sable fin attirent un très grand nombre de vacanciers et se situent à peine à 2 minutes à pied de votre location vacances JRM-Apart’Albufeira. </p>
 
-albufeiraTxtPart1 | <p class="alinea"> Albufeira est située au cœur de la région d’Algarve ayant une des plus belles plages d’Europe. </p> <p class="alinea"> Les rochers et les falaises du sud du Portugal forment des paysages enchanteurs au bord de l’eau.  Le soleil rayonne durant l’année sur les plages  avec un climat méditerranéen. </p>
+albufeiraTxtPart1 | <p class="alinea"> Albufeira est située au cœur de la région d’Algarve ayant une des plus belles plages d’Europe. </p> <p class="alinea"> Les rochers et les falaises du sud du Portugal forment des paysages enchanteurs au bord de l’eau.  Le soleil rayonne durant l’année sur les plages  avec un climat méditerranéen. </p> <p class="alinea"> De plus, l’animation de la vie nocturne complètera vos vacances inoubliables à Albufeira. La plage des « Pescadores » est très souvent le lieu de concerts gratuits, de magnifiques feux d’artifice et de festivités. </p> 
 
-albufeiraTxtPart2 | <p class="alinea"> De plus, l’animation de la vie nocturne complètera vos vacances inoubliables à Albufeira. La plage des « Pescadores » est très souvent le lieu de concerts gratuits, de magnifiques feux d’artifice et de festivités. </p> <p class="alinea"> Les sports nautiques comme la natation, la plongée, le surf, parachute ascensionnel, planche à voile et la pêche sont très populaires le long de la côte de l'Algarve, tout comme les croisières et les excursions en bateau permettant d’explorer les cavernes et les grottes. Les parcs aquatiques sont très populaires, ainsi que des aventures en plein air tels que le karting, les safaris en 4x4 et à cheval. </p> <p class="alinea"> Albufeira est situé à 45 km de l’aéroport international de Faro soit environ 35 minutes en voiture. Différents transports comme le bus, le taxi ou encore la navette de transfert permettent de faire le lien entre ces deux destinations. </p>
+albufeiraTxtPart2 | <p class="alinea"> Les sports nautiques comme la natation, la plongée, le surf, parachute ascensionnel, planche à voile et la pêche sont très populaires le long de la côte de l'Algarve, tout comme les croisières et les excursions en bateau permettant d’explorer les cavernes et les grottes. Les parcs aquatiques sont très populaires, ainsi que des aventures en plein air tels que le karting, les safaris en 4x4 et à cheval. </p> <p class="alinea"> Albufeira est situé à 45 km de l’aéroport international de Faro soit environ 35 minutes en voiture. Différents transports comme le bus, le taxi ou encore la navette de transfert permettent de faire le lien entre ces deux destinations. </p>
 
 descAppartOT3P1 | Avec une vue magnifique sur la vieille ville depuis sa terrasse sur le toit, cet appartement récemment rénové composé d'une chambre à coucher, situé à proximité du tunnel, est titulaire d'un charme particulier. 
 
@@ -64,6 +65,8 @@ detailsExtrasOT1 | <h1>Extras</h1><ul><li>Coffre-fort</li></ul>
 
 detailsMiscellaneousOT1 | <h1>Divers</h1><ul><li>Aéroport : 46km</li><li>Plage : 200mètres</li><li>Supermarché : 50 mètres</li><li>Restaurants : 50 mètres</li></ul>
 
+disponibilites | Disponibilités
+
 month | Mois
 
 weeklyPrices | Tarif à la semaine
@@ -92,6 +95,10 @@ november | Novembre
 
 december | Décembre
 
+tarifsDesc | <p class="alinea">Les tarifs sont pour une semaine (7 nuits).</p> <p class="alinea">30% versé lors de la pré-réservation et le restant 2 semaines avant le séjour ainsi qu’une caution d’un montant de 150€.</p>
+
 modalities | Modalités
 
-modalitiesText | <ul><li></li><li></li><li></li><li></li><li></li><li></li><li></li><li></li></ul>
+modalitiesText | <ul class="listFirstLevelModalities"><li>Il est strictement interdit de fumer à l’intérieur des appartements.</li><li>Les animaux ne sont pas acceptés.</li><li>Horaires: <ul><li>d’arrivée : à partir de 15h jusqu’à 20h</li><li>de départ : jusqu’à 10h</li></ul></li><li>Paiement: </li><ul><li>Virement bancaire</li></ul><li>Réservation: </li><ul><li>Pré-réservation : versement  à la réservation de 30% du montant de la location (non remboursable si annulation)</li><li>Réservation : versement  2 semaines avant le début de la période de location : solde de séjour (non remboursable si annulation)</li></ul><li>Caution: <ul><li>Une caution de 150€ doit être versée 2 semaines avant le début de la période de location. La caution sera versée par virement quelques jours après la fin du séjour si aucun dégât n’a été constaté lors de l’état des lieux de sortie.</li></ul></li><li>Lit bébé : âge limite 3 ans.</li></ul>
+
+numTel | Numéro de Téléphone

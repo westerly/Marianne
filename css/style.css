@@ -623,12 +623,24 @@ caption, th, td {
 	width:40%;
 }
 
+.mySpan72{
+	width:42%;
+}
+
 .mySpan7{
 	width:45%;
 }
 
+.mySpan78{
+	width:48%;
+}
+
 .mySpan8{
 	width:50%;
+}
+
+.mySpan85{
+	width:55%;
 }
 
 .mySpan9{
@@ -647,6 +659,11 @@ caption, th, td {
 	margin-bottom: 20px;
 }
 
+.txtAccueilNextToPhotos{
+	float:left;
+	margin-left:35px;
+}
+
 .ml20{
 	margin-left:20px;
 }
@@ -655,10 +672,67 @@ P.icons{
 	float:left;
 }
 
+.textAlbufeira{
+	float:left;
+	margin-bottom:20px;
+}
+
+.sizeAlbufeira{
+	height:510;
+}
+
+.tarifsDesc{
+	width: 32%;
+	float: left;
+	margin-left: 12px;
+	font-size:12px;
+}
+
+.listFirstLevelModalities{
+	list-style-type:square;
+}
+
 p.small_icons {
 	float:left;
 	margin-top:10px;
 }
+
+.txtContact a{
+	color: rgb(255,181,50);
+}
+
+.contactForm{
+	display:block;
+	margin:0 auto;
+	margin-top:40px;
+}
+
+.contactForm th{
+	text-align:right;
+	background: #0099CC;
+	border:0:
+}
+
+
+
+.contactForm tr td{
+	border:0;
+}
+
+.contactForm h1{
+	color:rgb(255,181,50);
+}
+
+.frameErrorContact{
+	border:1px solid #ff0000; 
+	padding:5px;
+	color:#ff0000;
+}
+
+#modalities li{
+	line-height:25px;
+}
+
 
 p.icons span {
 	color: white;

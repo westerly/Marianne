@@ -79,6 +79,7 @@
 	  		</ul>
   		</li>
   		<li class="<?php getClassMenuHeader("modalites");?>"><a class="father" href="<?php $url_root?>modalites.php"><?php echo $langs->trans("modalities");?></a>
+		<li class="<?php getClassMenuHeader("contacts");?>"><a class="father" href="<?php $url_root?>contacts.php"><?php echo $langs->trans("contacts");?></a>
   	</ul>
   </div>
 </div>

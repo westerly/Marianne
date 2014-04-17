@@ -122,6 +122,11 @@
 					<td>500</td>
 				</tr>
 			</table>
+			
+		</div>
+		
+		<div class="tarifsDesc txt">
+			<?php echo $langs->trans("tarifsDesc")?>
 		</div>
 <?php
  	
@@ -140,7 +145,7 @@
 ?>
 	<div id="datePick" class="calendar left divDispo">
 	
-	<h1>Disponibilités</h1>
+	<h1><?php echo $langs->trans("disponibilites")?></h1>
 	
 	<?php include "calendarFront.php"; ?>
 	
